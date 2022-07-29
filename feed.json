@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "RohD blog",
+    "description": "",
+    "home_page_url": "https://nohdaeyoung.github.com//gh-pages",
+    "feed_url": "https://nohdaeyoung.github.com//gh-pages/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "RohD"
+    },
+    "items": [
+        {
+            "id": "https://nohdaeyoung.github.com//gh-pages/test.html",
+            "url": "https://nohdaeyoung.github.com//gh-pages/test.html",
+            "title": "test",
+            "summary": "테스트",
+            "content_html": "<p>테스트</p>",
+            "author": {
+                "name": "RohD"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-07-29T12:34:15+09:00",
+            "date_modified": "2022-07-29T12:34:15+09:00"
+        }
+    ]
+}
